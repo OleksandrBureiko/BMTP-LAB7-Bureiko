@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1772634177 source:c:\bmtp-lab7v9-bureiko\bureiko-task-7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wchar.h>
+	<wctype.h>
+	<locale.h>
+	<windows.h>
+
